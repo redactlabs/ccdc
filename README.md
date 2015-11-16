@@ -48,9 +48,9 @@ seems ambiguous, contact the White Team.
 - For example, an employee may contact a Blue Team to get a status update on a
 service outage and may be irate or unreasonnable with the status.
 
-# Inject Examples
+## Inject Examples
 Within this repo, I have a soft copy of injects from the WRCCDC 2011 Invitational. This is an excellent reference of the Injects that you may encounter. 
 
-# Help? 
+## Help? 
 Although my availability is limited, I'll do my best to provide resources or obtain resources from former members. We have a range of professionals that have real world experience working for CSC, Deloitte, Tevora, and Azusa Pacific University. 
 

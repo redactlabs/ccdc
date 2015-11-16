@@ -21,12 +21,14 @@ from Unix/Linux to Windows or vice versa.
 creating a Presentation conducted in front of a panel that includes 
 the competition's sponsors (past sponsors include Raytheon, Facebook, Cisco,
 Juniper, FireEYE, SpaceX, Tesla, Workday, and SCE). 
+
 ## The Black Team (Infrastructure)
 - All hardware systems (Servers and Workstations) as well as and network gear 
 has been "optimized" by the Black Team.
 - This will likely include offsite infrastructure such as a VMware
 Environment that is at a remote location and require high-level networking
 via BGP. 
+
 ## The Red Team (Attackers)
 - Our friends at the Red Team enjoy disrupting networks, systems, and services.
 - Each Blue Team has a one hours grace period before the Red Team can start
@@ -34,11 +36,13 @@ attacks (**Note: in the National CCDC, they attack at competition start time).
 - Some Red Team members are more constructive on their feedback over others,
 but take as many opportunities to discuss ways to improve and learn from the
 Red Team. Just don't get Socially Engineered in the process. 
+
 ## The White Team (Points)
 - The White Team maintains the Scoring Engine that does randomized checks of 
 services as well as judging the attempts/completion of Injects. 
 - Always take your time in reading an Inject and then if there's something that
 seems ambiguous, contact the White Team. 
+
 ## The Orange Team (Customer Support)
 - Customer relations inquiries are done via randomized Orange Team members.
 - For example, an employee may contact a Blue Team to get a status update on a

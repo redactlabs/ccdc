@@ -10,7 +10,7 @@ organized by Daniel Manson of Cal Poly Pomona's Center for Information Assurance
 
 This is a detailed breakdown of the competition. 
 
-## Each College/University that competes on their own Blue Team. 
+## Each College/University competes on their own Blue Team. 
 - Blue Teams are purely defensive and the core objects is maintaining
 Service Level Agreements (SLAs) for the uptime of various services
 - The secondary objective requires completing randomized tasks known as

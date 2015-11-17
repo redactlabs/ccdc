@@ -24,12 +24,19 @@ aka LAMP or WAMP.
 
 ## Modules
 
+* modsecurity (Apache/IIS/Nginx Module for Web App Firewall): https://www.modsecurity.org/
 * mod_ssl (Apache Module that supports HTTPS)
 * Perl (Example: perl-Net-SSLeay extension to use OpenSSL)
 * PHP (Example: php-mysql module for PHP apps that use MySQL)
 * Python (Example: python-pycurl is a python interfacae to libcurl)
 
+# External Articles/Tutorials/Guides
 
-
+* https://www.trustwave.com/Resources/SpiderLabs-Blog/Web-Application-Defender-s-Cookbook--CCDC-Blue-Team-Cheatsheet/
+* http://cyb3rs3c.blogspot.com/2011/03/mid-atlantic-collegiate-cyber-defense.html
+* https://www.christophertruncer.com/red-teaming-a-ccdc-practice-event/
+* http://blog.cobaltstrike.com/2015/04/17/so-you-won-a-regional-and-youre-headed-to-national-ccdc/
+* https://alexlevinson.wordpress.com/2015/04/27/ccdc-2015-debrief-red-team-identity/
+* https://sites.google.com/site/howtoccdc/tips
 
 

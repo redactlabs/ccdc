@@ -32,7 +32,7 @@ via BGP.
 ## The Red Team (Attackers)
 - Our friends at the Red Team enjoy disrupting networks, systems, and services.
 - Each Blue Team has a one hours grace period before the Red Team can start
-attacks (**Note: in the National CCDC, they attack at competition start time). 
+attacks (*Note: in the National CCDC, they attack at competition start time). 
 - Some Red Team members are more constructive on their feedback over others,
 but take as many opportunities to discuss ways to improve and learn from the
 Red Team. Just don't get Socially Engineered in the process. 

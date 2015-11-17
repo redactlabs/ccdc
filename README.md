@@ -8,7 +8,7 @@ organized by Daniel Manson of Cal Poly Pomona's Center for Information Assurance
 
 # Competition Format
 
-This is a quick breakdown of the competition. 
+This is a detailed breakdown of the competition. 
 
 ## Each College/University that competes on their own Blue Team. 
 - Blue Teams are purely defensive and the core objects is maintaining
@@ -24,8 +24,8 @@ Juniper, FireEYE, SpaceX, Tesla, Workday, and SCE).
 
 ## The Black Team (Infrastructure)
 - All hardware systems (Servers and Workstations) as well as and network gear 
-has been "optimized" by the Black Team.
-- This will likely include offsite infrastructure such as a VMware
+was "optimized" by the Black Team.
+- This will likely include off-site infrastructure such as a VMware
 Environment that is at a remote location and require high-level networking
 via BGP. 
 
@@ -49,7 +49,7 @@ seems ambiguous, contact the White Team.
 service outage and may be irate or unreasonnable with the status.
 
 ## Inject Examples
-Within this repo, I have a soft copy of injects from the WRCCDC 2011 Invitational. This is an excellent reference of the Injects that you may encounter. 
+Within this repo, I have a soft copy of injects from the WRCCDC 2011 Invitational (.docx and .pdf formats). This is an excellent reference of the Injects that you may encounter as well as systems and software that you should learn. 
 
 ## Help? 
 Although my availability is limited, I'll do my best to provide resources or obtain resources from former members. We have a range of professionals that have real world experience working for CSC, Deloitte, Tevora, and Azusa Pacific University. 

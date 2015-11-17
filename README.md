@@ -11,8 +11,8 @@ organized by Daniel Manson of Cal Poly Pomona's Center for Information Assurance
 This is a detailed breakdown of the competition. 
 
 ## Each College/University competes on their own Blue Team. 
-- Blue Teams are purely defensive and the core objects is maintaining
-Service Level Agreements (SLAs) for the uptime of various services
+- Blue Teams are purely defensive and the core object is maintaining
+Service Level Agreements (SLAs) for the uptime of various services.
 - The secondary objective requires completing randomized tasks known as
 Injects, which range from making system/service changes to large projects
 such as Centralized Logging, Network/System Monitoring, User migrations 

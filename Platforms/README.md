@@ -5,12 +5,12 @@ Open Source platforms will provide a free version that does not require any
 licensing costs and then offer Enterprise Licenses or Support for different 
 features/upgrades. 
 
-CentOS is the Open Source version of RHEL and receives the same code base as RHEL, 
-but at a different release cycles. It could get pushed down from RHEL within hours 
-or up to weeks, but it will eventually reach CentOS. Ultimately, the same reliability 
-behind RHEL is made avaialble as a free version and often used for High Availabilty 
-Clustering and Virtualization in addition to Appliance Vendors such as FireEYE,
- M86/Trustwave, and Cisco. 
+CentOS is the Open Source version of Red Hat Enterprise Linux (RHEL) and receives the 
+same code base as RHEL, but at a different release cycles. It could get pushed down 
+from RHEL within hours or up to weeks, but it will eventually reach CentOS. Ultimately, 
+the same reliability behind RHEL is made avaialble as a free version and often used 
+for High Availabilty Clustering and Virtualization in addition to Appliance Vendors 
+such as FireEYE, M86/Trustwave, and Cisco. 
 
 RHEL is certified and heavily tested for being Enterprise ready. It's the operating system
 that powers Wall Street and a number of public and private organizations. 
@@ -22,7 +22,7 @@ Exchange, Frankfurt Stock Exchange, Eurex derivative exchange and Philippine Sto
 http://www.pcworld.com/article/238068/how_linux_mastered_wall_street.html
 
 
-# Competition Platforms
+## Competition Platforms
 
 Here's a list of potential platforms that may be used in the competition. 
 

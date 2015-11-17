@@ -10,12 +10,14 @@ Bash Shell and/or Windows Cygwin Bash Shell.
 
 ## Open Source Tools
 
+* awk (pattern scanning / text parsing)
 * curl (command line network protocol connector)
 * bash -x (execute bash scripts in verbose mode)
 * cd (change directory) 
 * dig (advanced DNS tool)
 * echo (display text or append text to a file)
 * git (revision control for code/configurations)
+* grep (search/parse text)
 * ifconfig (configure network interface)
 * ls (list directory contents)
 * md5sum (message digest to check file integrity)

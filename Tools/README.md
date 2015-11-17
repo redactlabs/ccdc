@@ -8,7 +8,7 @@ Web Service and DNS Configurations.
 I'll start with Open Source tools that are typically used in a 
 Bash Shell and/or Windows Cygwin Bash Shell. 
 
-# Open Source Tools
+## Open Source Tools
 
 * curl (command line network protocol connector)
 * bash -x (execute bash scripts in verbose mode)

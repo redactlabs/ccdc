@@ -38,5 +38,7 @@ aka LAMP or WAMP.
 * http://blog.cobaltstrike.com/2015/04/17/so-you-won-a-regional-and-youre-headed-to-national-ccdc/
 * https://alexlevinson.wordpress.com/2015/04/27/ccdc-2015-debrief-red-team-identity/
 * https://sites.google.com/site/howtoccdc/tips
+* http://net-force.net/2014-western-regional-collegiate-cyber-defense-competition-wrccdc-analysis/1317/
+
 
 
